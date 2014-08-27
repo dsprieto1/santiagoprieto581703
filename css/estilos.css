@@ -1,0 +1,46 @@
+body
+{
+background: #0E6877;
+font-family: fantasy; 
+font-size: 16px;
+}
+
+header
+{
+background: #202020;
+color: white;
+padding:  0.5em;
+} 
+
+header figure
+{
+  float: left; 
+    position: absolute;
+}
+
+header #logo img
+{
+ width: 60px; 
+ border-right: 2px solid white;  
+    margin-right: 0.5em;
+    padding-right: 0.5em;
+}
+
+header #avatar img
+{
+    width: 60px;
+}
+
+header #avatar
+{
+  padding: 0.5em 0.5am 0 0;    
+ position: absolute;
+ top: 0;    
+ right: 0;    
+} 
+
+header h1
+{
+font-size: 1.5em; 
+font-weight: normal; 
+margin: 1em 70px 0 80px;
